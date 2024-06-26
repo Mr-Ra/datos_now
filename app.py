@@ -14,8 +14,6 @@ from data_paths import (
     CUSTOMS_DATA_PATH
 )
 
-from prettymapp.geo import GeoCodingError, get_aoi
-from prettymapp.settings import STYLES
 
 st.markdown("""
     <style>
